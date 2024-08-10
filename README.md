@@ -9,7 +9,6 @@ This repository contains a Python implementation of the classic Tic-Tac-Toe game
 - **Simple Interface:** The game runs in the command line, with an intuitive and easy-to-use interface.
 
 ## Example Gameplay
-
 Computer goes first! Good luck.<br>
 Positions are as follows:<br>
 1 | 2 | 3
